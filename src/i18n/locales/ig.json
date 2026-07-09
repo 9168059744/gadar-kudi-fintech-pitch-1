@@ -1,0 +1,45 @@
+{
+  "Gadar Kuɗi": "Gadar Kuɗi",
+  "Financial Ladder": "(Ógbá ego)",
+  "nav": {
+    "home": "Ụlọ",
+    "problem": "Nsogbu",
+    "solution": "Ngwọta",
+    "features": "Atụmatụ",
+    "howItWorks": "Otú O Si Arụ Ọrụ",
+    "testimonials": "Àmà",
+    "contact": "Kpọtụrụ",
+    "getStarted": "Bido"
+  },
+  "hero": {
+    "bridging": "Ịkwado Nsonye Ego na Nigeria",
+    "title": "Ijikọ Onye ọ bụla na",
+    "titleGold": "Ohere Ego",
+    "subtitle": "Ọrụ ego dijitalụ dị mfe, nchekwa, na ọnụ ala n'asụsụ Hausa na Bekee.",
+    "startJourney": "Bido Njem Gị",
+    "learnMore": "Mụtakwuo",
+    "stats": {
+      "targetUsers": "Ndị ọrụ ezubere iche",
+      "languages": "Asụsụ",
+      "statesCovered": "Steeti kpuchiri",
+      "agentNetwork": "Netwọk onye nnọchi anya"
+    }
+  },
+  "problem": {
+    "challenge": "Ihe ịma aka",
+    "title": "Nsogbu mwepu ego",
+    "subtitle": "40% nke ndị okenye Naijiria ka na-enweghị ụlọ akụ. Northern Nigeria na-ebu ibu kacha arọ.",
+    "unbanked": {
+      "title": "65% enweghị ụlọ akụ na North",
+      "desc": "Ọtụtụ nde ndị na-arụsi ọrụ ike na Northern Nigeria enweghị ohere ịnweta ọrụ ego bụ isi."
+    },
+    "languageBarrier": {
+      "title": "Ihe mgbochi asụsụ",
+      "desc": "Ọtụtụ ngwa fintech bụ naanị Bekee, na-ewepu obodo ndị na-asụ Hausa na ngalaba ego dijitalụ."
+    },
+    "trustDeficit": {
+      "title": "Mmebi ntụkwasị obi",
+      "desc": "Nchegbu gbasara omenala na okpukperechi gbasara ụlọ akụ a na-emekarị na-egbochi nkuchi n'ime ime obodo."
+    }
+  }
+}

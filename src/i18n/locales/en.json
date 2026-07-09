@@ -1,0 +1,45 @@
+{
+  "Gadar Kuɗi": "Gadar Kuɗi",
+  "Financial Ladder": "(Financial Ladder)",
+  "nav": {
+    "home": "Home",
+    "problem": "Problem",
+    "solution": "Solution",
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "bridging": "Bridging Financial Inclusion in Nigeria",
+    "title": "Connecting Everyone with",
+    "titleGold": "Financial Opportunities",
+    "subtitle": "Accessible, secure, and affordable digital financial services in Hausa and English.",
+    "startJourney": "Start Your Journey",
+    "learnMore": "Learn More",
+    "stats": {
+      "targetUsers": "Target Users",
+      "languages": "Languages",
+      "statesCovered": "States Covered",
+      "agentNetwork": "Agent Network"
+    }
+  },
+  "problem": {
+    "challenge": "The Challenge",
+    "title": "The Financial Exclusion Crisis",
+    "subtitle": "40% of Nigerian adults remain unbanked. Northern Nigeria bears the heaviest burden.",
+    "unbanked": {
+      "title": "65% Unbanked in the North",
+      "desc": "Millions of hardworking people in Northern Nigeria lack access to basic financial services."
+    },
+    "languageBarrier": {
+      "title": "Language Barrier",
+      "desc": "Most fintech apps are English-only, excluding Hausa-speaking communities from digital finance."
+    },
+    "trustDeficit": {
+      "title": "Trust Deficit",
+      "desc": "Cultural and religious concerns about conventional banking deter adoption in rural communities."
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "Gadar Kuɗi": "Gadar Kuɗi",
+  "Financial Ladder": "(Àkàbà Ètò Iṣuna)",
+  "nav": {
+    "home": "Ilé",
+    "problem": "Ìṣòro",
+    "solution": "Ojútùú",
+    "features": "Àwọn Ẹya",
+    "howItWorks": "Bí O Ṣe N Ṣiṣẹ́",
+    "testimonials": "Àwọn Ẹ̀rí",
+    "contact": "Kan si wa",
+    "getStarted": "Bẹrẹ"
+  },
+  "hero": {
+    "bridging": "Pípese Ìṣọkan Owo Ní Nàìjíríà",
+    "title": "Pí sopọ̀ Gbogbo Ènìyàn pẹ̀lú",
+    "titleGold": "Àwọn Anfàní Owo",
+    "subtitle": "Àwọn iṣẹ́ ìṣúná owó dídájú, ààbò, àti ifarada ní èdè Hausa àti Gẹ̀ẹ́sì.",
+    "startJourney": "Bẹ̀rẹ̀ Irin-àjò Rẹ",
+    "learnMore": "Kọ́ síi",
+    "stats": {
+      "targetUsers": "Àwọn Olùlò Tí A Fojú Sùn",
+      "languages": "Àwọn Èdè",
+      "statesCovered": "Àwọn Ìpínlẹ̀ Tí A Bò",
+      "agentNetwork": "Nẹ́tíwọ́kì Aṣojú"
+    }
+  },
+  "problem": {
+    "challenge": "Ìpèníjà",
+    "title": "Ìṣòro Ìyàsọtọ̀ Ti Ìṣúná",
+    "subtitle": "40% àwọn àgbàlagbà Nàìjíríà kò ní àpamọ́wọ́. Àríwá Nàìjíríà ló jìyà jù lọ.",
+    "unbanked": {
+      "title": "65% Kò ní Àpamọ́wọ́ ní Àríwá",
+      "desc": "Mílíọ̀nù àwọn ènìyàn akínkanjú ní Àríwá Nàìjíríà kò ní àǹfààní sí àwọn iṣẹ́ ìṣúná ìpìlẹ̀."
+    },
+    "languageBarrier": {
+      "title": "Ìdènà Èdè",
+      "desc": "Ọ̀pọ̀lọpọ̀ àwọn ìṣàfilọ́lẹ̀ fintech jẹ́ Gẹ̀ẹ́sì nìkan, èyí tó yọ àwọn àwùjọ tó ń sọ Hausa kúrò nínú ìṣúná dídájú."
+    },
+    "trustDeficit": {
+      "title": "Àìní Ìgbẹ́kẹ̀lé",
+      "desc": "Àwọn àníyàn nípa àṣà àti ẹ̀sìn nípa ìfowópamọ́ ìbílẹ̀ máa ń díwọ́ ìgbàwọlé ní àwọn àdúgbò ìgbèríko."
+    }
+  }
+}

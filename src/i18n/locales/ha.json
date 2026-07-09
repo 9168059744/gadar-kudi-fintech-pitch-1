@@ -1,0 +1,45 @@
+{
+  "Gadar Kuɗi": "Gadar Kuɗi",
+  "Financial Ladder": "(Laddar Kuɗi)",
+  "nav": {
+    "home": "Haupari",
+    "problem": "Matsalar",
+    "solution": "Magani",
+    "features": "Siffofin",
+    "howItWorks": "Yadda Yake Aiki",
+    "testimonials": "Shaida",
+    "contact": "Tuntuɓi",
+    "getStarted": "Fara"
+  },
+  "hero": {
+    "bridging": "Haɗa Kai Don Haɗa Kai A Nijeriya",
+    "title": "Haɗa Kowa da",
+    "titleGold": "Damar Kuɗi",
+    "subtitle": "Sabobin kuɗi na dijital da ke da sauƙi, tsaro, da araha a cikin harshen Hausa da Turanci.",
+    "startJourney": "Fara Tafiyarku",
+    "learnMore": "Ƙara Koyo",
+    "stats": {
+      "targetUsers": "Masu Amfani da Aka Yi Nufi",
+      "languages": "Harsuna",
+      "statesCovered": "Jihohin da aka Rufe",
+      "agentNetwork": "Hanyar Sadarwar Wakili"
+    }
+  },
+  "problem": {
+    "challenge": "Kalubale",
+    "title": "Rikicin Warewar Kudi",
+    "subtitle": "Kashi 40% na manyan ‘yan Najeriya ba su da banki. Arewacin Najeriya ne ke dauke da nauyi mafi girma.",
+    "unbanked": {
+      "title": "Kashi 65% ba su da banki a Arewa",
+      "desc": "Miliyoyin masu aiki tukuru a Arewacin Najeriya ba su da damar samun ayyukan kuɗi na yau da kullun."
+    },
+    "languageBarrier": {
+      "title": "Shamakin Harshe",
+      "desc": "Yawancin manhajojin fintech na Turanci ne kawai, ban da al'ummomin da ke magana da Hausa daga hada-hadar kuɗi na zamani."
+    },
+    "trustDeficit": {
+      "title": "Gibin Amincewa",
+      "desc": "Damuwar al'adu da addini game da harkokin banki na yau da kullun na hana tallafi a cikin al'ummomin karkara."
+    }
+  }
+}
