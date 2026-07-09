@@ -1,5 +1,4 @@
 import { useTranslation } from 'react-i18next';
-import { Globe } from 'lucide-react';
 
 const languages = [
   { code: 'en', name: 'English' },

@@ -41,5 +41,12 @@
       "title": "Trust Deficit",
       "desc": "Cultural and religious concerns about conventional banking deter adoption in rural communities."
     }
+  },
+  "dashboard": {
+    "welcome": "Welcome back, {{name}}!",
+    "subtitle": "Track your progress and manage your money.",
+    "balance": "Available Balance",
+    "income": "Income",
+    "expenses": "Expenses"
   }
 }

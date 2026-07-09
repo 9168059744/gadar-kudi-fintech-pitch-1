@@ -41,5 +41,12 @@
       "title": "Gibin Amincewa",
       "desc": "Damuwar al'adu da addini game da harkokin banki na yau da kullun na hana tallafi a cikin al'ummomin karkara."
     }
+  },
+  "dashboard": {
+    "welcome": "Sannu da zuwa, {{name}}!",
+    "subtitle": "Bibiyar ci gaban ku da sarrafa kuɗin ku.",
+    "balance": "Balance da Ake da Shi",
+    "income": "Kuɗin Shiga",
+    "expenses": "Kashe Kuɗi"
   }
 }
